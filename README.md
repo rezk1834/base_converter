@@ -63,14 +63,3 @@ A simple Flutter application for converting numbers between different bases (bin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please contact [your email].
-
----
-
-Thank you for using the Base Converter App!
-```
-
-Make sure to update the sections such as the repository URL, your username, and your email. Additionally, add appropriate screenshots in the `screenshots` folder or adjust the paths accordingly.
