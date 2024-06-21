@@ -1,4 +1,3 @@
-Here's a `README.md` file for your base converter app. This file provides an overview of the project, setup instructions, and usage information.
 
 ```markdown
 # Base Converter App
